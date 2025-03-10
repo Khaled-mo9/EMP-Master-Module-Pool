@@ -34,5 +34,7 @@ Module Pool in SAP ABAP enables the development of custom interactive applicatio
 
 ## Video Demonstration
 
-[Watch the Video](https://drive.google.com/file/d/1A3Y6dZu2MlwIK3oUCk_cwznYb5eaN87J/view?usp=sharing)
+## Video Demonstration 🎥
+
+[![Watch the Video](path/to/thumbnail.jpg)](https://drive.google.com/file/d/1A3Y6dZu2MlwIK3oUCk_cwznYb5eaN87J/view?usp=sharing) [![Google Drive](https://img.icons8.com/color/48/000000/google-drive--v1.png)](https://drive.google.com/file/d/1A3Y6dZu2MlwIK3oUCk_cwznYb5eaN87J/view?usp=sharing)
 
